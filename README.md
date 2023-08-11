@@ -17,10 +17,7 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=0000A0&center=true&vCenter=true&multiline=false&lines=G/NELUWA+NATIONAL+SCHOOL" alt="">
 </p>
 
-<p align="center">
-<img src="C:\Users\NNC STUDENTS\Desktop\New folder/th.jpg" width="300" height="300"/>
-</p>
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6tZgz3Q/OIP.jpg" alt="OIP" border="0"></a>
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=800080&center=true&vCenter=true&multiline=false&lines=SPECIAL+THINGS+AND+NOTES" alt="">
